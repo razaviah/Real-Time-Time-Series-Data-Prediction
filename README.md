@@ -1,4 +1,4 @@
-# real-time-time-series-data-prediction
+# Real-Time Time Series Data Prediction
 
 ## Overview
 This project is currently in progress and combines Apache Flink, Kafka, and deep learning to analyze and predict trends in time series data. The goal is to dynamically integrate live data for immediate and accurate forecasting, advancing real-time data analysis.
